@@ -4,5 +4,7 @@
 
 
 Select a directory.
-After you press ctrl-v to paste infiniteclipboard will fill your clipboard with a new file from the directory.
+
+After you press `ctrl-v` to paste infiniteclipboard will fill your clipboard with a new file from the directory.
+
 On each paste you will get a new file.
